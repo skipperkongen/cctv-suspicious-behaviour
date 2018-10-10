@@ -25,7 +25,7 @@ Can't find exact Databricks code from presentation, but below I've made an attem
 ! guy said video will be made available on Spark Summit website. This was a good talk by former McKinsey employee. Why are those guys and girls always so sharp?
 
 Overview of problem solved
-- https://databricks.com/blog/2018/09/13/identify-suspicious-behavior-in-video-with-databricks-runtime-for-machine-learning.html
+- 
 - https://dzone.com/articles/video-analysis-to-detect-suspicious-activity-based
 Feature extraction
 - (Keras) https://medium.com/@franky07724_57962/using-keras-pre-trained-models-for-feature-extraction-in-image-clustering-a142c6cdf5b1
