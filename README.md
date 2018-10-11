@@ -15,7 +15,7 @@ Training:
 Inference:
 
 1. Continuously capture video from Mac Book Pro web cam.
-1. Print either "relaxed" or "excited"
+1. Print either "safe" or "danger"
 
 Project dependencies:
 
