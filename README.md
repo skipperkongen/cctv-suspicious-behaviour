@@ -4,6 +4,8 @@
 
 Detect mood in video. This is a reconstruction of cool CCTV example that I saw at a Spark + AI [talk](https://databricks.com/session/analyzing-performance-bottlenecks-in-data-science-the-case-for-distributed-models-using-apache-spark) by Thunder Shiviah. You can also have a look at my [minutes](navigating-ml-jungle.md) of the talk.
 
+The example is in the notebook [proto-vgg16-nn.ipynb](proto-vgg16-nn.ipynb) (most stable). There is also a version that uses LSTM to classify sequences of video frames. I actually created that one first, but found that it was overkill for the example. 
+
 ## Outline
 
 Training:
