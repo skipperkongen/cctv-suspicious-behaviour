@@ -1,6 +1,6 @@
 # CCTV mood
 
-> Work in progress, still buggy
+> Work in progress, but not too shabby
 
 Detect mood in video. This is a reconstruction of cool CCTV example that I saw at a Spark + AI [talk](https://databricks.com/session/analyzing-performance-bottlenecks-in-data-science-the-case-for-distributed-models-using-apache-spark) by Thunder Shiviah. You can also have a look at my [minutes](navigating-ml-jungle.md) of the talk.
 
